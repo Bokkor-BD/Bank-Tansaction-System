@@ -1,0 +1,27 @@
+
+
+.box{
+    box-shadow: 2px 2px 5px #222;    
+    margin: auto;
+    padding: 20px;
+    border-radius: 6px;
+    margin-top: 20px;
+}
+.deposit-box {
+  background-color: slateblue;
+}
+.withdraw-box {
+  background-color: crimson;
+}
+.balance-box {
+  background-color: orange;
+}
+.status {
+  padding: 20px;
+  border-radius: 6px;
+  margin-top: 20px;
+}
+#transactionForm{
+    margin-top: 100px;
+    display: none;
+}
